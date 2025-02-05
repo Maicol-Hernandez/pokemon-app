@@ -23,7 +23,6 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "lint": "eslint . --fix",
     "format": "prettier --write \"**/*.{js,mjs,ts,mts,d.ts,html}\" --cache",
     "test": "ng test",
     "serve:ssr:pokemon-app": "node dist/pokemon-app/server/server.mjs"
