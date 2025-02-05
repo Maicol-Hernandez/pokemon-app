@@ -1,6 +1,23 @@
 {
   "name": "pokemon-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A super complete Angular Pokemon app simulating a technical test",
+  "author": {
+    "name": "Michael Fernando Hernández Peralta",
+    "username": "Maicol-Hernandez"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Maicol-Hernandez/pokemon-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maicol-Hernandez/pokemon-app.git"
+  },
+  "keywords": [
+    "pokemon",
+    "angular",
+    "typescript",
+    "web-development"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
